@@ -1,0 +1,8 @@
+D:\Aleksey\Personal files\Projects\QuestionBase\src\QuestionBase\QuestionBase.Infrastructure\bin\Debug\netcoreapp2.2\QuestionBase.Infrastructure.deps.json
+D:\Aleksey\Personal files\Projects\QuestionBase\src\QuestionBase\QuestionBase.Infrastructure\bin\Debug\netcoreapp2.2\QuestionBase.Infrastructure.dll
+D:\Aleksey\Personal files\Projects\QuestionBase\src\QuestionBase\QuestionBase.Infrastructure\bin\Debug\netcoreapp2.2\QuestionBase.Infrastructure.pdb
+D:\Aleksey\Personal files\Projects\QuestionBase\src\QuestionBase\QuestionBase.Infrastructure\obj\Debug\netcoreapp2.2\QuestionBase.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Aleksey\Personal files\Projects\QuestionBase\src\QuestionBase\QuestionBase.Infrastructure\obj\Debug\netcoreapp2.2\QuestionBase.Infrastructure.AssemblyInfoInputs.cache
+D:\Aleksey\Personal files\Projects\QuestionBase\src\QuestionBase\QuestionBase.Infrastructure\obj\Debug\netcoreapp2.2\QuestionBase.Infrastructure.AssemblyInfo.cs
+D:\Aleksey\Personal files\Projects\QuestionBase\src\QuestionBase\QuestionBase.Infrastructure\obj\Debug\netcoreapp2.2\QuestionBase.Infrastructure.dll
+D:\Aleksey\Personal files\Projects\QuestionBase\src\QuestionBase\QuestionBase.Infrastructure\obj\Debug\netcoreapp2.2\QuestionBase.Infrastructure.pdb

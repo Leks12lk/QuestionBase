@@ -1,0 +1,14 @@
+D:\Aleksey\Personal files\Projects\QuestionBase\src\QuestionBase\QuestionBase.Persistence\bin\Debug\netcoreapp2.2\QuestionBase.Persistence.deps.json
+D:\Aleksey\Personal files\Projects\QuestionBase\src\QuestionBase\QuestionBase.Persistence\bin\Debug\netcoreapp2.2\QuestionBase.Persistence.dll
+D:\Aleksey\Personal files\Projects\QuestionBase\src\QuestionBase\QuestionBase.Persistence\bin\Debug\netcoreapp2.2\QuestionBase.Persistence.pdb
+D:\Aleksey\Personal files\Projects\QuestionBase\src\QuestionBase\QuestionBase.Persistence\bin\Debug\netcoreapp2.2\QuestionBase.Application.dll
+D:\Aleksey\Personal files\Projects\QuestionBase\src\QuestionBase\QuestionBase.Persistence\bin\Debug\netcoreapp2.2\QuestionBase.Domain.dll
+D:\Aleksey\Personal files\Projects\QuestionBase\src\QuestionBase\QuestionBase.Persistence\bin\Debug\netcoreapp2.2\QuestionBase.Application.pdb
+D:\Aleksey\Personal files\Projects\QuestionBase\src\QuestionBase\QuestionBase.Persistence\bin\Debug\netcoreapp2.2\QuestionBase.Domain.pdb
+D:\Aleksey\Personal files\Projects\QuestionBase\src\QuestionBase\QuestionBase.Persistence\obj\Debug\netcoreapp2.2\QuestionBase.Persistence.csprojAssemblyReference.cache
+D:\Aleksey\Personal files\Projects\QuestionBase\src\QuestionBase\QuestionBase.Persistence\obj\Debug\netcoreapp2.2\QuestionBase.Persistence.csproj.CoreCompileInputs.cache
+D:\Aleksey\Personal files\Projects\QuestionBase\src\QuestionBase\QuestionBase.Persistence\obj\Debug\netcoreapp2.2\QuestionBase.Persistence.AssemblyInfoInputs.cache
+D:\Aleksey\Personal files\Projects\QuestionBase\src\QuestionBase\QuestionBase.Persistence\obj\Debug\netcoreapp2.2\QuestionBase.Persistence.AssemblyInfo.cs
+D:\Aleksey\Personal files\Projects\QuestionBase\src\QuestionBase\QuestionBase.Persistence\obj\Debug\netcoreapp2.2\QuestionBase.Persistence.csproj.CopyComplete
+D:\Aleksey\Personal files\Projects\QuestionBase\src\QuestionBase\QuestionBase.Persistence\obj\Debug\netcoreapp2.2\QuestionBase.Persistence.dll
+D:\Aleksey\Personal files\Projects\QuestionBase\src\QuestionBase\QuestionBase.Persistence\obj\Debug\netcoreapp2.2\QuestionBase.Persistence.pdb

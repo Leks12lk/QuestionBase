@@ -1,0 +1,12 @@
+D:\Aleksey\Personal files\Projects\QuestionBase\src\QuestionBase\QuestionBase.Application\bin\Debug\netcoreapp2.2\QuestionBase.Application.deps.json
+D:\Aleksey\Personal files\Projects\QuestionBase\src\QuestionBase\QuestionBase.Application\bin\Debug\netcoreapp2.2\QuestionBase.Application.dll
+D:\Aleksey\Personal files\Projects\QuestionBase\src\QuestionBase\QuestionBase.Application\bin\Debug\netcoreapp2.2\QuestionBase.Application.pdb
+D:\Aleksey\Personal files\Projects\QuestionBase\src\QuestionBase\QuestionBase.Application\bin\Debug\netcoreapp2.2\QuestionBase.Domain.dll
+D:\Aleksey\Personal files\Projects\QuestionBase\src\QuestionBase\QuestionBase.Application\bin\Debug\netcoreapp2.2\QuestionBase.Domain.pdb
+D:\Aleksey\Personal files\Projects\QuestionBase\src\QuestionBase\QuestionBase.Application\obj\Debug\netcoreapp2.2\QuestionBase.Application.csprojAssemblyReference.cache
+D:\Aleksey\Personal files\Projects\QuestionBase\src\QuestionBase\QuestionBase.Application\obj\Debug\netcoreapp2.2\QuestionBase.Application.csproj.CoreCompileInputs.cache
+D:\Aleksey\Personal files\Projects\QuestionBase\src\QuestionBase\QuestionBase.Application\obj\Debug\netcoreapp2.2\QuestionBase.Application.AssemblyInfoInputs.cache
+D:\Aleksey\Personal files\Projects\QuestionBase\src\QuestionBase\QuestionBase.Application\obj\Debug\netcoreapp2.2\QuestionBase.Application.AssemblyInfo.cs
+D:\Aleksey\Personal files\Projects\QuestionBase\src\QuestionBase\QuestionBase.Application\obj\Debug\netcoreapp2.2\QuestionBase.Application.csproj.CopyComplete
+D:\Aleksey\Personal files\Projects\QuestionBase\src\QuestionBase\QuestionBase.Application\obj\Debug\netcoreapp2.2\QuestionBase.Application.dll
+D:\Aleksey\Personal files\Projects\QuestionBase\src\QuestionBase\QuestionBase.Application\obj\Debug\netcoreapp2.2\QuestionBase.Application.pdb
